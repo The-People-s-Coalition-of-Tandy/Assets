@@ -1,0 +1,60 @@
+{
+	"albums": [{
+		"title": "Blue Mist",
+		"artist": "BLUE DISH",
+		"album": "Out of the Blue",
+		"url": "../Albums/BLUE DISH/OutOfTheBlue/1. Blue mist.mp3",
+		"cover": "../Albums/BLUE DISH/OutOfTheBlue/1. Blue mist.mp3"
+	}, {
+		"title": "Out of the Blue",
+		"artist": "BLUE DISH",
+		"album": "Out of the Blue",
+		"url": "../Albums/BLUE DISH/OutOfTheBlue/2. Out of the Blue.mp3",
+		"cover": "../Albums/BLUE DISH/OutOfTheBlue/2. Out of the Blue.mp3"
+	}, {
+		"title": "Cruisin'",
+		"artist": "BLUE DISH",
+		"album": "Out of the Blue",
+		"url": "../Albums/BLUE DISH/OutOfTheBlue/3. Cruisin'.mp3",
+		"cover": "../Albums/BLUE DISH/OutOfTheBlue/3. Cruisin'.mp3"
+	}, {
+		"title": "Fantasie-Worlde in Blue",
+		"artist": "BLUE DISH",
+		"album": "Out of the Blue",
+		"url": "../Albums/BLUE DISH/OutOfTheBlue/4. Fantasie-Worlde in Blue.mp3",
+		"cover": "../Albums/BLUE DISH/OutOfTheBlue/4. Fantasie-Worlde in Blue.mp3"
+	}, {
+		"title": "Elizabeth",
+		"artist": "BLUE DISH",
+		"album": "Into the Blue",
+		"url": "../Albums/BLUE DISH/IntoTheBlue/Elizabeth.mp3",
+		"cover": "../Albums/BLUE DISH/OutOfTheBlue/Cover.png"
+	}, {
+		"title": "Into the Blue",
+		"artist": "BLUE DISH",
+		"album": "Into the Blue",
+		"url": "../Albums/BLUE DISH/IntoTheBlue/Into the Blue.mp3",
+		"cover": "../Albums/BLUE DISH/OutOfTheBlue/1. Blue mist.mp3"
+	}, {
+		"title": "Nothin' Blue to You",
+		"artist": "BLUE DISH",
+		"album": "Into the Blue",
+		"url": "../Albums/BLUE DISH/IntoTheBlue/Nothin' Blue 2 You.mp3",
+		"cover": "../Albums/BLUE DISH/OutOfTheBlue/1. Blue mist.mp3"
+	}, {
+		"title": "Neptune (Ends in Blue)",
+		"artist": "BLUE DISH",
+		"album": "Into the Blue",
+		"url": "../Albums/BLUE DISH/IntoTheBlue/Neptune.mp3",
+		"cover": "../Albums/BLUE DISH/OutOfTheBlue/1. Blue mist.mp3"
+	}],
+	"artists": [{
+		"name": "BLUE DISH",
+		"bio": "Hailing from all over the Globe, BLUE DISH is cool and sweet. Known for their uniquely Soothing Music, they are loved in all corners of the Gloob. Erupting onto the coffeehouse scene with its rookie release BLUE DISH has rocketed to high places. This is a blurb about BLUE DISH <br> <a href = 'www.tandy.bandcamp.com'>BANDCAMP</a>",
+		"artistImage": "../Albums/BLUE DISH/Out of the Blue/cover.jpeg"
+	}, {
+		"name": "Green Deck",
+		"bio": "Green Deck is cool. This is a blurb about Green Deck",
+		"artistImage": "../Albums/BLUE DISH/Out of the Blue/cover.jpeg"
+	}]
+}
