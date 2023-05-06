@@ -4,49 +4,49 @@
 		"artist": "BLUE DISH",
 		"album": "Out of the Blue",
 		"url": "https://raw.githubusercontent.com/The-People-s-Coalition-of-Tandy/Assets/1e85c03c787442462f74b55fd72a048ba384d326/Albums/BLUE%20DISH/OutOfTheBlue/1.%20Blue%20mist.mp3",
-		"cover": "../Albums/BLUE DISH/OutOfTheBlue/1. Blue mist.mp3"
+		"cover": "https://github.com/The-People-s-Coalition-of-Tandy/Assets/blob/1e85c03c787442462f74b55fd72a048ba384d326/Albums/BLUE%20DISH/OutOfTheBlue/Cover.jpeg?raw=true"
 	}, {
 		"title": "Out of the Blue",
 		"artist": "BLUE DISH",
 		"album": "Out of the Blue",
 		"url": "https://raw.githubusercontent.com/The-People-s-Coalition-of-Tandy/Assets/1e85c03c787442462f74b55fd72a048ba384d326/Albums/BLUE%20DISH/OutOfTheBlue/2.%20Out%20of%20the%20Blue.mp3",
-		"cover": "../Albums/BLUE DISH/OutOfTheBlue/2. Out of the Blue.mp3"
+		"cover": "https://github.com/The-People-s-Coalition-of-Tandy/Assets/blob/1e85c03c787442462f74b55fd72a048ba384d326/Albums/BLUE%20DISH/OutOfTheBlue/Cover.jpeg?raw=true"
 	}, {
 		"title": "Cruisin'",
 		"artist": "BLUE DISH",
 		"album": "Out of the Blue",
 		"url": "https://raw.githubusercontent.com/The-People-s-Coalition-of-Tandy/Assets/1e85c03c787442462f74b55fd72a048ba384d326/Albums/BLUE%20DISH/OutOfTheBlue/3.%20Cruisin'.mp3",
-		"cover": "../Albums/BLUE DISH/OutOfTheBlue/3. Cruisin'.mp3"
+		"cover": "https://github.com/The-People-s-Coalition-of-Tandy/Assets/blob/1e85c03c787442462f74b55fd72a048ba384d326/Albums/BLUE%20DISH/OutOfTheBlue/Cover.jpeg?raw=true"
 	}, {
 		"title": "Fantasie-Worlde in Blue",
 		"artist": "BLUE DISH",
 		"album": "Out of the Blue",
 		"url": "https://github.com/The-People-s-Coalition-of-Tandy/Assets/blob/1e85c03c787442462f74b55fd72a048ba384d326/Albums/BLUE%20DISH/OutOfTheBlue/4.%20Fantasie-Worlde%20in%20Blue.mp3?raw=true",
-		"cover": "../Albums/BLUE DISH/OutOfTheBlue/4. Fantasie-Worlde in Blue.mp3"
+		"cover": "https://github.com/The-People-s-Coalition-of-Tandy/Assets/blob/1e85c03c787442462f74b55fd72a048ba384d326/Albums/BLUE%20DISH/OutOfTheBlue/Cover.jpeg?raw=true"
 	}, {
 		"title": "Elizabeth",
 		"artist": "BLUE DISH",
 		"album": "Into the Blue",
 		"url": "../Albums/BLUE DISH/IntoTheBlue/Elizabeth.mp3",
-		"cover": "../Albums/BLUE DISH/OutOfTheBlue/Cover.png"
+		"cover": "https://github.com/The-People-s-Coalition-of-Tandy/Assets/blob/1e85c03c787442462f74b55fd72a048ba384d326/Albums/BLUE%20DISH/IntoTheBlue/Cover_min.png?raw=true"
 	}, {
 		"title": "Into the Blue",
 		"artist": "BLUE DISH",
 		"album": "Into the Blue",
 		"url": "../Albums/BLUE DISH/IntoTheBlue/Into the Blue.mp3",
-		"cover": "../Albums/BLUE DISH/OutOfTheBlue/1. Blue mist.mp3"
+		"cover": "https://github.com/The-People-s-Coalition-of-Tandy/Assets/blob/1e85c03c787442462f74b55fd72a048ba384d326/Albums/BLUE%20DISH/IntoTheBlue/Cover_min.png?raw=true"
 	}, {
 		"title": "Nothin' Blue to You",
 		"artist": "BLUE DISH",
 		"album": "Into the Blue",
 		"url": "../Albums/BLUE DISH/IntoTheBlue/Nothin' Blue 2 You.mp3",
-		"cover": "../Albums/BLUE DISH/OutOfTheBlue/1. Blue mist.mp3"
+		"cover": "https://github.com/The-People-s-Coalition-of-Tandy/Assets/blob/1e85c03c787442462f74b55fd72a048ba384d326/Albums/BLUE%20DISH/IntoTheBlue/Cover_min.png?raw=true"
 	}, {
 		"title": "Neptune (Ends in Blue)",
 		"artist": "BLUE DISH",
 		"album": "Into the Blue",
 		"url": "../Albums/BLUE DISH/IntoTheBlue/Neptune.mp3",
-		"cover": "../Albums/BLUE DISH/OutOfTheBlue/1. Blue mist.mp3"
+		"cover": "https://github.com/The-People-s-Coalition-of-Tandy/Assets/blob/1e85c03c787442462f74b55fd72a048ba384d326/Albums/BLUE%20DISH/IntoTheBlue/Cover_min.png?raw=true"
 	}],
 	"artists": [{
 		"name": "BLUE DISH",
