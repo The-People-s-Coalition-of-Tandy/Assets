@@ -47,7 +47,20 @@
 		"album": "Into the Blue",
 		"url": "https://github.com/The-People-s-Coalition-of-Tandy/Assets/blob/1e85c03c787442462f74b55fd72a048ba384d326/Albums/BLUE%20DISH/IntoTheBlue/Nothin'%20Blue%202%20You.mp3?raw=true",
 		"cover": "https://github.com/The-People-s-Coalition-of-Tandy/Assets/blob/1e85c03c787442462f74b55fd72a048ba384d326/Albums/BLUE%20DISH/IntoTheBlue/Cover_min.png?raw=true"
-	}],
+	}, {
+	        "title": "Unforgettable",
+	        "artist": "Green Deck",
+	        "album": "Slowly",
+	        "url": "https://github.com/The-People-s-Coalition-of-Tandy/Assets/blob/1e85c03c787442462f74b55fd72a048ba384d326/Albums/BLUE%20DISH/IntoTheBlue/Nothin'%20Blue%202%20You.mp3?raw=true",
+	        "cover": "https://upload.wikimedia.org/wikipedia/en/2/27/AAArcanum.jpg",
+  	}, {
+	        "title": "Unforgettable",
+	        "artist": "Green Deck",
+	        "album": "Slowly",
+	        "url": "https://github.com/The-People-s-Coalition-of-Tandy/Assets/blob/1e85c03c787442462f74b55fd72a048ba384d326/Albums/BLUE%20DISH/IntoTheBlue/Nothin'%20Blue%202%20You.mp3?raw=true",
+		"cover": "https://upload.wikimedia.org/wikipedia/en/2/27/AAArcanum.jpg",
+  	},],
+	
 	"artists": [{
 		"name": "BLUE DISH",
 		"bio": "Hailing from all over the Globe, BLUE DISH is cool and sweet. Known for their uniquely Soothing Music, they are loved in all corners of the Gloob. Erupting onto the coffeehouse scene with its rookie release BLUE DISH has rocketed to high places. This is a blurb about BLUE DISH <br> <a href = 'www.tandy.bandcamp.com'>BANDCAMP</a>",
