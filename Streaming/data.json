@@ -1,117 +1,151 @@
 {
-	"albums": [{
-		"title": "Blue Mist",
-		"artist": "BLUE DISH",
-		"album": "Out of the Blue",
-		"url": "https://raw.githubusercontent.com/The-People-s-Coalition-of-Tandy/Assets/1e85c03c787442462f74b55fd72a048ba384d326/Albums/BLUE%20DISH/OutOfTheBlue/1.%20Blue%20mist.mp3",
-		"cover": "https://github.com/The-People-s-Coalition-of-Tandy/Assets/blob/1e85c03c787442462f74b55fd72a048ba384d326/Albums/BLUE%20DISH/OutOfTheBlue/Cover.jpeg?raw=true"
-	}, {
-		"title": "Out of the Blue",
-		"artist": "BLUE DISH",
-		"album": "Out of the Blue",
-		"url": "https://raw.githubusercontent.com/The-People-s-Coalition-of-Tandy/Assets/1e85c03c787442462f74b55fd72a048ba384d326/Albums/BLUE%20DISH/OutOfTheBlue/2.%20Out%20of%20the%20Blue.mp3",
-		"cover": "https://github.com/The-People-s-Coalition-of-Tandy/Assets/blob/1e85c03c787442462f74b55fd72a048ba384d326/Albums/BLUE%20DISH/OutOfTheBlue/Cover.jpeg?raw=true"
-	}, {
-		"title": "Cruisin'",
-		"artist": "BLUE DISH",
-		"album": "Out of the Blue",
-		"url": "https://raw.githubusercontent.com/The-People-s-Coalition-of-Tandy/Assets/1e85c03c787442462f74b55fd72a048ba384d326/Albums/BLUE%20DISH/OutOfTheBlue/3.%20Cruisin'.mp3",
-		"cover": "https://github.com/The-People-s-Coalition-of-Tandy/Assets/blob/1e85c03c787442462f74b55fd72a048ba384d326/Albums/BLUE%20DISH/OutOfTheBlue/Cover.jpeg?raw=true"
-	}, {
-		"title": "Fantasie-Worlde in Blue",
-		"artist": "BLUE DISH",
-		"album": "Out of the Blue",
-		"url": "https://github.com/The-People-s-Coalition-of-Tandy/Assets/blob/1e85c03c787442462f74b55fd72a048ba384d326/Albums/BLUE%20DISH/OutOfTheBlue/4.%20Fantasie-Worlde%20in%20Blue.mp3?raw=true",
-		"cover": "https://github.com/The-People-s-Coalition-of-Tandy/Assets/blob/1e85c03c787442462f74b55fd72a048ba384d326/Albums/BLUE%20DISH/OutOfTheBlue/Cover.jpeg?raw=true"
-	}, {
-		"title": "Elizabeth",
-		"artist": "BLUE DISH",
-		"album": "Into the Blue",
-		"url": "https://raw.github.com/The-People-s-Coalition-of-Tandy/Assets/1e85c03c787442462f74b55fd72a048ba384d326/Albums/BLUE%20DISH/IntoTheBlue/Elizabeth.mp3",
-		"cover": "https://github.com/The-People-s-Coalition-of-Tandy/Assets/blob/1e85c03c787442462f74b55fd72a048ba384d326/Albums/BLUE%20DISH/IntoTheBlue/Cover_min.png?raw=true"
-	}, {
-		"title": "Into the Blue",
-		"artist": "BLUE DISH",
-		"album": "Into the Blue",
-		"url": "https://github.com/The-People-s-Coalition-of-Tandy/Assets/blob/1e85c03c787442462f74b55fd72a048ba384d326/Albums/BLUE%20DISH/IntoTheBlue/Into%20the%20Blue.mp3?raw=true",
-		"cover": "https://github.com/The-People-s-Coalition-of-Tandy/Assets/blob/1e85c03c787442462f74b55fd72a048ba384d326/Albums/BLUE%20DISH/IntoTheBlue/Cover_min.png?raw=true"
-	}, {
-		"title": "Nothin' Blue to You",
-		"artist": "BLUE DISH",
-		"album": "Into the Blue",
-		"url": "https://github.com/The-People-s-Coalition-of-Tandy/Assets/blob/1e85c03c787442462f74b55fd72a048ba384d326/Albums/BLUE%20DISH/IntoTheBlue/Neptune.mp3?raw=true",
-		"cover": "https://github.com/The-People-s-Coalition-of-Tandy/Assets/blob/1e85c03c787442462f74b55fd72a048ba384d326/Albums/BLUE%20DISH/IntoTheBlue/Cover_min.png?raw=true"
-	}, {
-		"title": "Neptune (Ends in Blue)",
-		"artist": "BLUE DISH",
-		"album": "Into the Blue",
-		"url": "https://github.com/The-People-s-Coalition-of-Tandy/Assets/blob/1e85c03c787442462f74b55fd72a048ba384d326/Albums/BLUE%20DISH/IntoTheBlue/Nothin'%20Blue%202%20You.mp3?raw=true",
-		"cover": "https://github.com/The-People-s-Coalition-of-Tandy/Assets/blob/1e85c03c787442462f74b55fd72a048ba384d326/Albums/BLUE%20DISH/IntoTheBlue/Cover_min.png?raw=true"
-	},
-	{
-		"title": "Party Star (Yoshi Song)",
-		"artist": "BLUE DISH",
-		"album": "Deep Blue",
-		"url": "https://github.com/The-People-s-Coalition-of-Tandy/Assets/blob/7460b2b240e6d970b9c0ad0270713fe5a73b661e/Albums/BLUE%20DISH/DeepBlue/1_PARTY_STAR.wav",
-		"cover": "https://raw.githubusercontent.com/The-People-s-Coalition-of-Tandy/Assets/main/Albums/BLUE%20DISH/DeepBlue/cover_min.jpg"
-	},
-	{
-		"title": "Kaiba",
-		"artist": "BLUE DISH",
-		"album": "Deep Blue",
-		"url": "https://github.com/The-People-s-Coalition-of-Tandy/Assets/blob/7460b2b240e6d970b9c0ad0270713fe5a73b661e/Albums/BLUE%20DISH/DeepBlue/2_KAIBA.wav",
-		"cover": "https://raw.githubusercontent.com/The-People-s-Coalition-of-Tandy/Assets/main/Albums/BLUE%20DISH/DeepBlue/cover_min.jpg"
-	}, 
-	{
-		"title": "Up in Fountain Blue",
-		"artist": "BLUE DISH",
-		"album": "Deep Blue",
-		"url": "https://github.com/The-People-s-Coalition-of-Tandy/Assets/blob/7460b2b240e6d970b9c0ad0270713fe5a73b661e/Albums/BLUE%20DISH/DeepBlue/3_UP.wav",
-		"cover": "https://raw.githubusercontent.com/The-People-s-Coalition-of-Tandy/Assets/main/Albums/BLUE%20DISH/DeepBlue/cover_min.jpg"
-	},
-	{
-		"title": "Blue Skyez",
-		"artist": "BLUE DISH",
-		"album": "Deep Blue",
-		"url": "https://github.com/The-People-s-Coalition-of-Tandy/Assets/blob/7460b2b240e6d970b9c0ad0270713fe5a73b661e/Albums/BLUE%20DISH/DeepBlue/4_BLUE_SKYEZ.wav",
-		"cover": "https://raw.githubusercontent.com/The-People-s-Coalition-of-Tandy/Assets/main/Albums/BLUE%20DISH/DeepBlue/cover_min.jpg"
-	},
-	{
-		"title": "Swing Surprise: Blue Chase",
-		"artist": "BLUE DISH",
-		"album": "Deep Blue",
-		"url": "https://github.com/The-People-s-Coalition-of-Tandy/Assets/blob/7460b2b240e6d970b9c0ad0270713fe5a73b661e/Albums/BLUE%20DISH/DeepBlue/5_SWING_SURPRISE.wav",
-		"cover": "https://raw.githubusercontent.com/The-People-s-Coalition-of-Tandy/Assets/main/Albums/BLUE%20DISH/DeepBlue/cover_min.jpg"
-	}, 
-	{
-		"title": "Blue Lullaby",
-		"artist": "BLUE DISH",
-		"album": "Deep Blue",
-		"url": "https://github.com/The-People-s-Coalition-of-Tandy/Assets/blob/7460b2b240e6d970b9c0ad0270713fe5a73b661e/Albums/BLUE%20DISH/DeepBlue/6_BLUE_LULLABY.wav",
-		"cover": "https://raw.githubusercontent.com/The-People-s-Coalition-of-Tandy/Assets/main/Albums/BLUE%20DISH/DeepBlue/cover_min.jpg"
-	}, 
-	{
-		"title": "Deep Blue, Deeper Blue",
-		"artist": "BLUE DISH",
-		"album": "Deep Blue",
-		"url": "https://github.com/The-People-s-Coalition-of-Tandy/Assets/blob/7460b2b240e6d970b9c0ad0270713fe5a73b661e/Albums/BLUE%20DISH/DeepBlue/7_DEEP_BLUE.wav",
-		"cover": "https://raw.githubusercontent.com/The-People-s-Coalition-of-Tandy/Assets/main/Albums/BLUE%20DISH/DeepBlue/cover_min.jpg"
-	}, 
-	{
-		"title": "Blue Kiss",
-		"artist": "BLUE DISH",
-		"album": "Deep Blue",
-		"url": "https://github.com/The-People-s-Coalition-of-Tandy/Assets/blob/7460b2b240e6d970b9c0ad0270713fe5a73b661e/Albums/BLUE%20DISH/DeepBlue/8_BLUE_KISS.wav",
-		"cover": "https://raw.githubusercontent.com/The-People-s-Coalition-of-Tandy/Assets/main/Albums/BLUE%20DISH/DeepBlue/cover_min.jpg"
-	}
-],
-	"artists": [{
-		"name": "BLUE DISH",
-		"bio": "Hailing from all over the Globe, BLUE DISH is cool and sweet. Known for their uniquely Soothing Music, they are loved in all corners of the Gloob. Erupting onto the coffeehouse scene with its rookie release BLUE DISH has rocketed to high places. This is a blurb about BLUE DISH <br> <a href = 'www.tandy.bandcamp.com'>BANDCAMP</a>",
-		"artistImage": "https://github.com/The-People-s-Coalition-of-Tandy/Assets/blob/1e85c03c787442462f74b55fd72a048ba384d326/Albums/BLUE%20DISH/OutOfTheBlue/Cover.jpeg?raw=true"
-	}, {
-		"name": "Green Deck",
-		"bio": "Green Deck is cool. This is a blurb about Green Deck",
-		"artistImage": "../Albums/BLUE DISH/Out of the Blue/cover.jpeg"
-	}]
+    "albums": [{
+            "title": "Out of the Blue",
+            "songs": [{
+                "title": "Blue Mist",
+                "artist": "BLUE DISH",
+                "album": "Out of the Blue",
+                "url": "https://raw.githubusercontent.com/The-People-s-Coalition-of-Tandy/Assets/1e85c03c787442462f74b55fd72a048ba384d326/Albums/BLUE%20DISH/OutOfTheBlue/1.%20Blue%20mist.mp3",
+                "cover": "https://github.com/The-People-s-Coalition-of-Tandy/Assets/blob/1e85c03c787442462f74b55fd72a048ba384d326/Albums/BLUE%20DISH/OutOfTheBlue/Cover.jpeg?raw=true",
+                "trackNum": 1
+            }, {
+                "title": "Out of the Blue",
+                "artist": "BLUE DISH",
+                "album": "Out of the Blue",
+                "url": "https://raw.githubusercontent.com/The-People-s-Coalition-of-Tandy/Assets/1e85c03c787442462f74b55fd72a048ba384d326/Albums/BLUE%20DISH/OutOfTheBlue/2.%20Out%20of%20the%20Blue.mp3",
+                "cover": "https://github.com/The-People-s-Coalition-of-Tandy/Assets/blob/1e85c03c787442462f74b55fd72a048ba384d326/Albums/BLUE%20DISH/OutOfTheBlue/Cover.jpeg?raw=true",
+                "trackNum": 2
+            }, {
+                "title": "Cruisin'",
+                "artist": "BLUE DISH",
+                "album": "Out of the Blue",
+                "url": "https://raw.githubusercontent.com/The-People-s-Coalition-of-Tandy/Assets/1e85c03c787442462f74b55fd72a048ba384d326/Albums/BLUE%20DISH/OutOfTheBlue/3.%20Cruisin'.mp3",
+                "cover": "https://github.com/The-People-s-Coalition-of-Tandy/Assets/blob/1e85c03c787442462f74b55fd72a048ba384d326/Albums/BLUE%20DISH/OutOfTheBlue/Cover.jpeg?raw=true",
+                "trackNum": 3
+            }, {
+                "title": "Fantasie-Worlde in Blue",
+                "artist": "BLUE DISH",
+                "album": "Out of the Blue",
+                "url": "https://github.com/The-People-s-Coalition-of-Tandy/Assets/blob/1e85c03c787442462f74b55fd72a048ba384d326/Albums/BLUE%20DISH/OutOfTheBlue/4.%20Fantasie-Worlde%20in%20Blue.mp3?raw=true",
+                "cover": "https://github.com/The-People-s-Coalition-of-Tandy/Assets/blob/1e85c03c787442462f74b55fd72a048ba384d326/Albums/BLUE%20DISH/OutOfTheBlue/Cover.jpeg?raw=true",
+                "trackNum": 4
+            }],
+            "artist": "BLUE DISH",
+            "year": "2021"
+        },
+
+        {
+            "title": "Into the Blue",
+            "songs": [{
+                "title": "Elizabeth",
+                "artist": "BLUE DISH",
+                "album": "Into the Blue",
+                "url": "https://raw.github.com/The-People-s-Coalition-of-Tandy/Assets/1e85c03c787442462f74b55fd72a048ba384d326/Albums/BLUE%20DISH/IntoTheBlue/Elizabeth.mp3",
+                "cover": "https://github.com/The-People-s-Coalition-of-Tandy/Assets/blob/1e85c03c787442462f74b55fd72a048ba384d326/Albums/BLUE%20DISH/IntoTheBlue/Cover_min.png?raw=true",
+                "trackNum": 1
+            }, {
+                "title": "Into the Blue",
+                "artist": "BLUE DISH",
+                "album": "Into the Blue",
+                "url": "https://github.com/The-People-s-Coalition-of-Tandy/Assets/blob/1e85c03c787442462f74b55fd72a048ba384d326/Albums/BLUE%20DISH/IntoTheBlue/Into%20the%20Blue.mp3?raw=true",
+                "cover": "https://github.com/The-People-s-Coalition-of-Tandy/Assets/blob/1e85c03c787442462f74b55fd72a048ba384d326/Albums/BLUE%20DISH/IntoTheBlue/Cover_min.png?raw=true",
+                "trackNum": 2
+            }, {
+                "title": "Nothin' Blue to You",
+                "artist": "BLUE DISH",
+                "album": "Into the Blue",
+                "url": "https://github.com/The-People-s-Coalition-of-Tandy/Assets/blob/1e85c03c787442462f74b55fd72a048ba384d326/Albums/BLUE%20DISH/IntoTheBlue/Neptune.mp3?raw=true",
+                "cover": "https://github.com/The-People-s-Coalition-of-Tandy/Assets/blob/1e85c03c787442462f74b55fd72a048ba384d326/Albums/BLUE%20DISH/IntoTheBlue/Cover_min.png?raw=true",
+                "trackNum": 3
+            }, {
+                "title": "Neptune (Ends in Blue)",
+                "artist": "BLUE DISH",
+                "album": "Into the Blue",
+                "url": "https://github.com/The-People-s-Coalition-of-Tandy/Assets/blob/1e85c03c787442462f74b55fd72a048ba384d326/Albums/BLUE%20DISH/IntoTheBlue/Nothin'%20Blue%202%20You.mp3?raw=true",
+                "cover": "https://github.com/The-People-s-Coalition-of-Tandy/Assets/blob/1e85c03c787442462f74b55fd72a048ba384d326/Albums/BLUE%20DISH/IntoTheBlue/Cover_min.png?raw=true",
+                "trackNum": 4
+            }],
+            "artist": "BLUE DISH",
+            "year": "2022"
+        },
+        {
+            "title": "Deep Blue",
+            "songs": [{
+                    "title": "Party Star (Yoshi Song)",
+                    "artist": "BLUE DISH",
+                    "album": "Deep Blue",
+                    "url": "https://github.com/The-People-s-Coalition-of-Tandy/Assets/blob/7460b2b240e6d970b9c0ad0270713fe5a73b661e/Albums/BLUE%20DISH/DeepBlue/1_PARTY_STAR.wav",
+                    "cover": "https://raw.githubusercontent.com/The-People-s-Coalition-of-Tandy/Assets/main/Albums/BLUE%20DISH/DeepBlue/cover_min.jpg",
+                    "trackNum": 1
+                },
+                {
+                    "title": "Kaiba",
+                    "artist": "BLUE DISH",
+                    "album": "Deep Blue",
+                    "url": "https://github.com/The-People-s-Coalition-of-Tandy/Assets/blob/7460b2b240e6d970b9c0ad0270713fe5a73b661e/Albums/BLUE%20DISH/DeepBlue/2_KAIBA.wav",
+                    "cover": "https://raw.githubusercontent.com/The-People-s-Coalition-of-Tandy/Assets/main/Albums/BLUE%20DISH/DeepBlue/cover_min.jpg",
+                    "trackNum": 2
+                },
+                {
+                    "title": "Up in Fountain Blue",
+                    "artist": "BLUE DISH",
+                    "album": "Deep Blue",
+                    "url": "https://github.com/The-People-s-Coalition-of-Tandy/Assets/blob/7460b2b240e6d970b9c0ad0270713fe5a73b661e/Albums/BLUE%20DISH/DeepBlue/3_UP.wav",
+                    "cover": "https://raw.githubusercontent.com/The-People-s-Coalition-of-Tandy/Assets/main/Albums/BLUE%20DISH/DeepBlue/cover_min.jpg",
+                    "trackNum": 3
+                },
+                {
+                    "title": "Blue Skyez",
+                    "artist": "BLUE DISH",
+                    "album": "Deep Blue",
+                    "url": "https://github.com/The-People-s-Coalition-of-Tandy/Assets/blob/7460b2b240e6d970b9c0ad0270713fe5a73b661e/Albums/BLUE%20DISH/DeepBlue/4_BLUE_SKYEZ.wav",
+                    "cover": "https://raw.githubusercontent.com/The-People-s-Coalition-of-Tandy/Assets/main/Albums/BLUE%20DISH/DeepBlue/cover_min.jpg",
+                    "trackNum": 4
+                },
+                {
+                    "title": "Swing Surprise: Blue Chase",
+                    "artist": "BLUE DISH",
+                    "album": "Deep Blue",
+                    "url": "https://github.com/The-People-s-Coalition-of-Tandy/Assets/blob/7460b2b240e6d970b9c0ad0270713fe5a73b661e/Albums/BLUE%20DISH/DeepBlue/5_SWING_SURPRISE.wav",
+                    "cover": "https://raw.githubusercontent.com/The-People-s-Coalition-of-Tandy/Assets/main/Albums/BLUE%20DISH/DeepBlue/cover_min.jpg",
+                    "trackNum": 5
+                },
+                {
+                    "title": "Blue Lullaby",
+                    "artist": "BLUE DISH",
+                    "album": "Deep Blue",
+                    "url": "https://github.com/The-People-s-Coalition-of-Tandy/Assets/blob/7460b2b240e6d970b9c0ad0270713fe5a73b661e/Albums/BLUE%20DISH/DeepBlue/6_BLUE_LULLABY.wav",
+                    "cover": "https://raw.githubusercontent.com/The-People-s-Coalition-of-Tandy/Assets/main/Albums/BLUE%20DISH/DeepBlue/cover_min.jpg",
+                    "trackNum": 6
+                },
+                {
+                    "title": "Deep Blue, Deeper Blue",
+                    "artist": "BLUE DISH",
+                    "album": "Deep Blue",
+                    "url": "https://github.com/The-People-s-Coalition-of-Tandy/Assets/blob/7460b2b240e6d970b9c0ad0270713fe5a73b661e/Albums/BLUE%20DISH/DeepBlue/7_DEEP_BLUE.wav",
+                    "cover": "https://raw.githubusercontent.com/The-People-s-Coalition-of-Tandy/Assets/main/Albums/BLUE%20DISH/DeepBlue/cover_min.jpg",
+                    "trackNum": 7
+                },
+                {
+                    "title": "Blue Kiss",
+                    "artist": "BLUE DISH",
+                    "album": "Deep Blue",
+                    "url": "https://github.com/The-People-s-Coalition-of-Tandy/Assets/blob/7460b2b240e6d970b9c0ad0270713fe5a73b661e/Albums/BLUE%20DISH/DeepBlue/8_BLUE_KISS.wav",
+                    "cover": "https://raw.githubusercontent.com/The-People-s-Coalition-of-Tandy/Assets/main/Albums/BLUE%20DISH/DeepBlue/cover_min.jpg",
+                    "trackNum": 8
+                }
+            ],
+            "artist": "BLUE DISH",
+            "year": "2023"
+        }
+    ],
+    "artists": [{
+        "name": "BLUE DISH",
+        "bio": "Hailing from all over the Globe, BLUE DISH is cool and sweet. Known for their uniquely Soothing Music, they are loved in all corners of the Gloob. Erupting onto the coffeehouse scene with its rookie release BLUE DISH has rocketed to high places. This is a blurb about BLUE DISH <br> <a href = 'www.tandy.bandcamp.com'>BANDCAMP</a>",
+        "artistImage": "https://github.com/The-People-s-Coalition-of-Tandy/Assets/blob/1e85c03c787442462f74b55fd72a048ba384d326/Albums/BLUE%20DISH/OutOfTheBlue/Cover.jpeg?raw=true"
+    }, {
+        "name": "Green Deck",
+        "bio": "Green Deck is cool. This is a blurb about Green Deck",
+        "artistImage": "../Albums/BLUE DISH/Out of the Blue/cover.jpeg"
+    }]
 }
