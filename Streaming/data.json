@@ -144,11 +144,7 @@
     ],
     "artists": [{
         "name": "BLUE DISH",
-        "bio": "Hailing from all over the Globe, BLUE DISH is cool and sweet. Known for their uniquely Soothing Music, they are loved in all corners of the Gloob. Erupting onto the coffeehouse scene with its rookie release BLUE DISH has rocketed to high places. This is a blurb about BLUE DISH <br> <a href = 'www.tandy.bandcamp.com'>BANDCAMP</a>",
+        "bio": "Hailing from Brattleboro, VT, BLUE DISH is cool and sweet. Known for their uniquely Soothing Music, they are loved in all corners of the Globe. Erupting onto the coffeehouse scene with the rookie release, Out of the Blue, BLUE DISH has rocketed to high places."
         "artistImage": "https://github.com/The-People-s-Coalition-of-Tandy/Assets/blob/1e85c03c787442462f74b55fd72a048ba384d326/Albums/BLUE%20DISH/OutOfTheBlue/Cover.jpeg?raw=true"
-    }, {
-        "name": "Green Deck",
-        "bio": "Green Deck is cool. This is a blurb about Green Deck",
-        "artistImage": "../Albums/BLUE DISH/Out of the Blue/cover.jpeg"
     }]
 }
