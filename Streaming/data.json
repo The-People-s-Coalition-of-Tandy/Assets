@@ -1,5 +1,19 @@
 {
     "albums": [{
+        "title": "Blueby's Secret Dish",
+        "songs": [{
+            "title": "Blueby's Secret Dish",
+            "artist": "BLUE DISH",
+            "album": "Blueby's Secret Dish",
+            "url": "https://github.com/The-People-s-Coalition-of-Tandy/Assets/raw/021543f322dbc51d6ca484cd638da4c091e98311/Albums/BLUE%20DISH/BluebySingle/Blueby's%20Secret%20Dish.mp3",
+            "cover": "https://raw.githubusercontent.com/The-People-s-Coalition-of-Tandy/Assets/main/Albums/BLUE%20DISH/BluebySingle/cover.jpg?raw=true",
+            "trackNum": 1
+        }],
+        "artist": "BLUE DISH",
+        "cover": "https://raw.githubusercontent.com/The-People-s-Coalition-of-Tandy/Assets/main/Albums/BLUE%20DISH/BluebySingle/coverfixed.jpg?raw=true",
+        "year": "2024"
+    },
+    {
             "title": "Out of the Blue",
             "songs": [{
                 "title": "Blue Mist",
